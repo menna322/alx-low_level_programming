@@ -1,0 +1,2 @@
+#!/bin/blash
+gcc -E $CFILE > C
